@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WebsiteApplyLink(Private)">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebsiteApplyLink_Private_</output-path>
+    <root id="archive" name="WebsiteSupportLink(Private).jar">
+      <element id="module-output" name="WebsiteSupportLink(Private)" />
+      <element id="extracted-dir" path="C:/SharedProjects/Spigot1.8.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

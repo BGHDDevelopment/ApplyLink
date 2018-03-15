@@ -1,0 +1,8 @@
+main: me.noodles.websitelink.Main
+name: ApplyLink
+version: 1.0
+author: BGHDDevelopment
+
+commands:
+   apply:
+      description: Sends a apply for staff link
